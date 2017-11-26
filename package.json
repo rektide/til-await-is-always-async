@@ -1,0 +1,16 @@
+{
+	"name": "til-await-is-always-async",
+	"version": "1.0.0",
+	"description": "TIL \"await\" is always an async operation.",
+	"main": "til-await-is-always-async.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/til-await-is-always-async"
+	},
+	"keywords": [],
+	"author": "rektide de la faye",
+	"license": "X11"
+}
